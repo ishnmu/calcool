@@ -7,4 +7,8 @@ export const StyledButton = styled.button`
   padding: 0.25em 1em;
   border: 2px solid black;
   border-radius: 3px;
+
+  :active {
+    opacity: 0.75;
+  }
 `;

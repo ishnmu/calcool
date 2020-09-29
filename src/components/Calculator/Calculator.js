@@ -76,7 +76,7 @@ const Calculator = () => {
     },
     {
       label: 0,
-      onClick: () => setResult(result ? `${result} + 0` : "0"),
+      onClick: () => setResult(result ? result + "0" : "0"),
     },
     {
       label: ".",

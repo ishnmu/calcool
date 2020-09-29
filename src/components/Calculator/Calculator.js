@@ -4,15 +4,19 @@ import Screen from "../Screen/Screen";
 import { CalculatorWrapper } from "./Calculator.style";
 
 const Calculator = () => {
-  const [result, setResult] = React.useState(0);
+  const [result, setResult] = React.useState("");
   const data = [
     {
       label: "C",
-      onClick: () => console.info("clicked", "C"),
+      onClick: () => result && setResult(""),
     },
     {
       label: "+/-",
-      onClick: () => console.info("clicked", "+/-"),
+      onClick: () =>
+        result &&
+        setResult(
+          parseInt(result) > 0 ? `-${result}` : Math.abs(result).toString()
+        ),
     },
     {
       label: "%",
@@ -24,15 +28,15 @@ const Calculator = () => {
     },
     {
       label: 1,
-      onClick: () => console.info("clicked", 1),
+      onClick: () => setResult(result ? result + "1" : "1"),
     },
     {
       label: 2,
-      onClick: () => console.info("clicked", 2),
+      onClick: () => setResult(result ? result + "2" : "2"),
     },
     {
       label: 3,
-      onClick: () => console.info("clicked", 3),
+      onClick: () => setResult(result ? result + "3" : "3"),
     },
     {
       label: "x",
@@ -40,15 +44,15 @@ const Calculator = () => {
     },
     {
       label: 4,
-      onClick: () => console.info("clicked", 4),
+      onClick: () => setResult(result ? result + "4" : "4"),
     },
     {
       label: 5,
-      onClick: () => console.info("clicked", 5),
+      onClick: () => setResult(result ? result + "5" : "5"),
     },
     {
       label: 6,
-      onClick: () => console.info("clicked", 6),
+      onClick: () => setResult(result ? result + "6" : "6"),
     },
     {
       label: "-",
@@ -56,15 +60,15 @@ const Calculator = () => {
     },
     {
       label: 7,
-      onClick: () => console.info("clicked", 7),
+      onClick: () => setResult(result ? result + "7" : "7"),
     },
     {
       label: 8,
-      onClick: () => console.info("clicked", 8),
+      onClick: () => setResult(result ? result + "8" : "8"),
     },
     {
       label: 9,
-      onClick: () => console.info("clicked", 9),
+      onClick: () => setResult(result ? result + "9" : "9"),
     },
     {
       label: "+",
@@ -72,7 +76,7 @@ const Calculator = () => {
     },
     {
       label: 0,
-      onClick: () => console.info("clicked", 0),
+      onClick: () => setResult(result ? `${result} + 0` : "0"),
     },
     {
       label: ".",

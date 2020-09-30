@@ -1,6 +1,7 @@
-import React, { lazy } from "react";
+import React from "react";
 import Button from "../../common/Button/Button";
 import { KeypadWrapper } from "./Keypad.style";
+import "./Key.style.css";
 
 const Keypad = ({ data }) => {
   return (

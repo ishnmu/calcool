@@ -1,4 +1,4 @@
-import React, { lazy } from "react";
+import React from "react";
 import { ScreenWrapper } from "./Screen.style";
 
 const Screen = ({ data }) => {

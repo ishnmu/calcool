@@ -1,8 +1,8 @@
 {
-  "name": "calculator-ishnmu.github.io",
+  "name": "calcool",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://calculator-ishnmu.github.io/",
+  "homepage": "http://ishnmu.github.io/calcool",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",

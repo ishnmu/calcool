@@ -9,7 +9,6 @@ const Calculator = () => {
     {
       label: "C",
       onClick: () => result && setResult(""),
-      class: "all-clear",
     },
     {
       label: "+/-",
@@ -18,22 +17,18 @@ const Calculator = () => {
         setResult(
           parseInt(result) > 0 ? `-${result}` : Math.abs(result).toString()
         ),
-      class: "plus-minus",
     },
     {
       label: "%",
       onClick: () => console.info("clicked", "%"),
-      class: "modulus",
     },
     {
       label: "÷",
       onClick: () => console.info("clicked", "÷"),
-      class: "divide",
     },
     {
       label: 1,
       onClick: () => setResult(result ? result + "1" : "1"),
-      class: "one",
     },
     {
       label: 2,

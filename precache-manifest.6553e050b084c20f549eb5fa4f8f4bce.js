@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2ef0cae5059500f12c4a5c06e75e2c84",
+    "revision": "b12d28d1a8e06845b0519055b19aac26",
     "url": "/calcool/index.html"
   },
   {
-    "revision": "59aa8d399aa81303173e",
-    "url": "/calcool/static/css/main.5ecd60fb.chunk.css"
+    "revision": "3d211893b347adfc0812",
+    "url": "/calcool/static/css/main.87412304.chunk.css"
   },
   {
     "revision": "7416a6a02433b9fb629f",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/calcool/static/js/2.fd6e6be2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "59aa8d399aa81303173e",
-    "url": "/calcool/static/js/main.3799e67f.chunk.js"
+    "revision": "3d211893b347adfc0812",
+    "url": "/calcool/static/js/main.3eac6039.chunk.js"
   },
   {
     "revision": "be0c5c8c33d28e0a1942",

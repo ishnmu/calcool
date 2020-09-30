@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/calcool/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/calcool/static/js/main.3799e67f.chunk.js",
-    "main.js.map": "/calcool/static/js/main.3799e67f.chunk.js.map",
+    "main.css": "/calcool/static/css/main.87412304.chunk.css",
+    "main.js": "/calcool/static/js/main.3eac6039.chunk.js",
+    "main.js.map": "/calcool/static/js/main.3eac6039.chunk.js.map",
     "runtime-main.js": "/calcool/static/js/runtime-main.d6b9dc8d.js",
     "runtime-main.js.map": "/calcool/static/js/runtime-main.d6b9dc8d.js.map",
     "static/js/2.fd6e6be2.chunk.js": "/calcool/static/js/2.fd6e6be2.chunk.js",
     "static/js/2.fd6e6be2.chunk.js.map": "/calcool/static/js/2.fd6e6be2.chunk.js.map",
     "index.html": "/calcool/index.html",
-    "precache-manifest.092647a445e812b08b02d55dccbe760a.js": "/calcool/precache-manifest.092647a445e812b08b02d55dccbe760a.js",
+    "precache-manifest.6553e050b084c20f549eb5fa4f8f4bce.js": "/calcool/precache-manifest.6553e050b084c20f549eb5fa4f8f4bce.js",
     "service-worker.js": "/calcool/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/calcool/static/css/main.5ecd60fb.chunk.css.map",
+    "static/css/main.87412304.chunk.css.map": "/calcool/static/css/main.87412304.chunk.css.map",
     "static/js/2.fd6e6be2.chunk.js.LICENSE.txt": "/calcool/static/js/2.fd6e6be2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d6b9dc8d.js",
     "static/js/2.fd6e6be2.chunk.js",
-    "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.3799e67f.chunk.js"
+    "static/css/main.87412304.chunk.css",
+    "static/js/main.3eac6039.chunk.js"
   ]
 }

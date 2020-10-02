@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dddfb37362d52ff44a3954475211a46f",
+    "revision": "5acb7627a77704876f82d896f6ab4258",
     "url": "/calcool/index.html"
   },
   {
-    "revision": "d5970859bd54ce874b99",
+    "revision": "6ab180aedaeaced53fc3",
     "url": "/calcool/static/css/main.7e919a6a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/calcool/static/js/2.3af12c84.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d5970859bd54ce874b99",
-    "url": "/calcool/static/js/main.911b9f8a.chunk.js"
+    "revision": "6ab180aedaeaced53fc3",
+    "url": "/calcool/static/js/main.20d81f63.chunk.js"
   },
   {
     "revision": "be0c5c8c33d28e0a1942",

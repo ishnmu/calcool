@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/calcool/static/css/main.7e919a6a.chunk.css",
-    "main.js": "/calcool/static/js/main.911b9f8a.chunk.js",
-    "main.js.map": "/calcool/static/js/main.911b9f8a.chunk.js.map",
+    "main.js": "/calcool/static/js/main.20d81f63.chunk.js",
+    "main.js.map": "/calcool/static/js/main.20d81f63.chunk.js.map",
     "runtime-main.js": "/calcool/static/js/runtime-main.d6b9dc8d.js",
     "runtime-main.js.map": "/calcool/static/js/runtime-main.d6b9dc8d.js.map",
     "static/js/2.3af12c84.chunk.js": "/calcool/static/js/2.3af12c84.chunk.js",
     "static/js/2.3af12c84.chunk.js.map": "/calcool/static/js/2.3af12c84.chunk.js.map",
     "index.html": "/calcool/index.html",
-    "precache-manifest.040b59d7c3b34e9feca59a3ea765e078.js": "/calcool/precache-manifest.040b59d7c3b34e9feca59a3ea765e078.js",
+    "precache-manifest.1357cd14c13267b2d57d82b20295a15c.js": "/calcool/precache-manifest.1357cd14c13267b2d57d82b20295a15c.js",
     "service-worker.js": "/calcool/service-worker.js",
     "static/css/main.7e919a6a.chunk.css.map": "/calcool/static/css/main.7e919a6a.chunk.css.map",
     "static/js/2.3af12c84.chunk.js.LICENSE.txt": "/calcool/static/js/2.3af12c84.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d6b9dc8d.js",
     "static/js/2.3af12c84.chunk.js",
     "static/css/main.7e919a6a.chunk.css",
-    "static/js/main.911b9f8a.chunk.js"
+    "static/js/main.20d81f63.chunk.js"
   ]
 }

@@ -3,12 +3,12 @@ import Button from "../../common/Button/Button";
 import { KeypadWrapper } from "./Keypad.style";
 import "./Key.style.css";
 
-const Keypad = ({ data }) => {
+const Keypad = ({ keys, onPress }) => {
   return (
     <KeypadWrapper>
-      {data &&
-        data.map((item) => (
-          <Button onClick={item.onClick} label={item.label} />
+      {keys &&
+        keys.map((item) => (
+          <Button onClick={onPress} label={item} />
         ))}
     </KeypadWrapper>
   );

@@ -4,6 +4,7 @@ export const CalculatorWrapper = styled.div`
   display: flex;
   flex-direction: column;
   border: 1px solid black;
+  border-radius: 1vh;
   padding: 1vh;
   width: 250px;
   height: fit-content;

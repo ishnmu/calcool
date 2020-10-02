@@ -5,6 +5,7 @@ export const CalculatorWrapper = styled.div`
   flex-direction: column;
   border: 1px solid black;
   padding: 1vh;
+  width: 250px;
   height: fit-content;
 `;
 

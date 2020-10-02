@@ -4,7 +4,7 @@ export const ScreenWrapper = styled.section`
   text-align: right;
   background: black;
   color: white;
-  min-height: 10vh;
-  font-size: 2rem;
+  min-height: 15vh;
+  font-size: 2em;
   padding: 1vh;
 `;
